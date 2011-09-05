@@ -14,3 +14,4 @@ all the test files that actually ran -- you don't have to do anything, beyond th
 require 'test_helper'
 ```
 
+Copyright (c) 2011 Mark D. Blackwell. See [MIT-LICENSE](MIT-LICENSE) for details.
